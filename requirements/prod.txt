@@ -1,0 +1,20 @@
+flask==0.10.1
+arrow==0.4.4
+pyopenssl==0.14
+flask-wtf==0.11
+wtforms==2.0.2
+flask-login==0.2.11
+celery[redis]==3.1.17
+uwsgi==2.0.9
+furl==0.4.4
+
+passlib==1.6.2                #library to assist in crypto
+py-bcrypt==0.4                #bcrypt
+sqlalchemy-utils==0.29.3
+psycopg2==2.5.4
+alembic==0.7.4
+flask-sqlalchemy==2.0
+Flask-Testing==0.4.2
+
+boto
+blinker
